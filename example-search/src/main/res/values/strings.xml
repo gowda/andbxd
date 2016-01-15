@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">UnbxdApiSdk</string>
+    <string name="title_activity_search">Unbxd Search</string>
+    <string name="search_title">Search for product</string>
+    <string name="search_hint">Search for products</string>
+</resources>

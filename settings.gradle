@@ -1,1 +1,1 @@
-include ':search'
+include ':example-search', ':search'
